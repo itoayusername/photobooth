@@ -1,0 +1,14 @@
+{
+  "price": 100,
+  "secretKey": "sk_live_d97PEW9o68BXswaZ2ikibqkR",
+  "rentSession": {
+    "active": true,
+    "title": "TOUCH OR SCAN TO START SESSION",
+    "font": "Montserrat",
+    "fontSize": "32px",
+    "color": "#fbbf24",
+    "background": "#0b0f19"
+  },
+  "maintenanceMode": false,
+  "paymongoSecretKey": "sk_live_kEQjfgN9Yc6fhVMPjWUrQVSD"
+}
